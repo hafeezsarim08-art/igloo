@@ -46,4 +46,4 @@ Check daemon status:
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** — see the LICENSE.md file for details.
+This project is licensed under the **Copyright (c) hafeezsarim08-art. All Rights Reserved.**— see the LICENSE.md file for details.
