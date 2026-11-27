@@ -1,4 +1,4 @@
-Copyright (c) 2026 [Your Name or GitHub Handle]. All Rights Reserved.
+Copyright (c) 2026 techboy21-dev. All Rights Reserved.
 
 This software and its source code are proprietary and confidential.
 No permission is granted to copy, modify, fork, redistribute, reverse engineer,
